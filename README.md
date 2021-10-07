@@ -40,3 +40,6 @@
 
 #画面遷移図
 https://xd.adobe.com/view/4c924453-3de1-4956-8ebf-f3b60f35e454-19c1/
+
+#ER図
+https://drive.google.com/file/d/1JM8YyfC05AEtSZ4wlweWoQuvcQcFzI8l/view?usp=sharing
