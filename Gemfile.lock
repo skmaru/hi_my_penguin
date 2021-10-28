@@ -188,6 +188,7 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
+    sqlite3 (1.4.2)
     temple (0.8.2)
     thor (1.1.0)
     thread_safe (0.3.6)
@@ -226,8 +227,8 @@ DEPENDENCIES
   jbuilder
   jquery-rails
   listen (>= 3.0.5, < 3.2)
+  pg
   meta-tags
-  pg (>= 0.18, < 2.0)
   puma (~> 3.11)
   rails (~> 5.2.6)
   rails-i18n (~> 5.0.0)
@@ -236,6 +237,7 @@ DEPENDENCIES
   slim-rails
   spring
   spring-watcher-listen (~> 2.0.0)
+  turbolinks (~> 5)
   tzinfo-data
   uglifier
   web-console (>= 3.3.0)
